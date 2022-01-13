@@ -49,7 +49,7 @@ Step 4:
 
 If you're already using an Intellivision emulator, add the line:
 
-	lr-freeintv = "/opt/retropie/emulators/retroarch/bin/retroarch -L /opt/retropie/libretrocores/lr-freeintv/freeintv_libretro.so --config /opt/retropie//configs/intellivision/retroarch.cfg %ROM%"
+	lr-freeintv = "/opt/retropie/emulators/retroarch/bin/retroarch -L /opt/retropie/libretrocores/lr-freeintv/freeintv_libretro.so --config /opt/retropie/configs/intellivision/retroarch.cfg %ROM%"
 
 to the top of the file:
 
